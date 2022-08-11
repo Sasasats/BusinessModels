@@ -1,0 +1,35 @@
+{
+  "name": "Sergey",
+  "surname": "Denisova",
+  "age": 18,
+  "phone_number": [
+    "88005553535",
+    "dededed"
+  ],
+  "address": [
+    {
+      "country": "Ukraine",
+      "city": "Minsk",
+      "street": "My street",
+      "house": 12,
+      "letter": null,
+      "index": "222-333"
+    },
+    {
+      "country": "Belarus",
+      "city": "Minsk",
+      "street": "My street",
+      "house": 12,
+      "letter": null,
+      "index": "222-333"
+    },
+    {
+      "country": "Ukraine",
+      "city": "Minsk",
+      "street": "My street",
+      "house": 12,
+      "letter": null,
+      "index": "222-333"
+    }
+  ]
+}

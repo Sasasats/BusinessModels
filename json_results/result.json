@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Andrey",
+    "surname": "Denisov",
+    "age": 18,
+    "phone_number": [
+      "88005553535",
+      "dededed"
+    ],
+    "address": {
+      "country": "Ukraine",
+      "city": "Minsk",
+      "street": "My street",
+      "house": 12,
+      "letter": null,
+      "index": "222-333"
+    }
+  },
+  {
+    "name": "Olga",
+    "surname": "Denisova",
+    "age": 18,
+    "phone_number": [
+      "88005553535",
+      "dededed"
+    ],
+    "address": {
+      "country": "Ukraine",
+      "city": "Minsk",
+      "street": "My street",
+      "house": 12,
+      "letter": null,
+      "index": "222-333"
+    }
+  },
+  {
+    "name": "Sergey",
+    "surname": "Denisova",
+    "age": 18,
+    "phone_number": [
+      "88005553535",
+      "dededed"
+    ],
+    "address": [
+      {
+        "country": "Ukraine",
+        "city": "Minsk",
+        "street": "My street",
+        "house": 12,
+        "letter": null,
+        "index": "222-333"
+      },
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "street": "My street",
+        "house": 12,
+        "letter": null,
+        "index": "222-333"
+      },
+      {
+        "country": "Ukraine",
+        "city": "Minsk",
+        "street": "My street",
+        "house": 12,
+        "letter": null,
+        "index": "222-333"
+      }
+    ]
+  },
+  {
+    "name": "Aleks",
+    "surname": "Alekseev",
+    "age": 18,
+    "phone_number": [
+      "88005553535"
+    ],
+    "address": [
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "street": "My street",
+        "house": 12,
+        "letter": null,
+        "index": "222-333"
+      }
+    ]
+  },
+  {
+    "name": "Andrey",
+    "surname": "Andreyev",
+    "age": 18,
+    "phone_number": [
+      "88005553535",
+      "+375256666632"
+    ],
+    "address": [
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "street": "My street",
+        "house": 12,
+        "letter": null,
+        "index": "222-333"
+      },
+      {
+        "country": "Georgia",
+        "city": "Tbilisi",
+        "street": "My street2",
+        "house": 300,
+        "letter": "A",
+        "index": "333-222"
+      }
+    ]
+  },
+  {
+    "name": "Nikita",
+    "surname": "Nikitiev",
+    "age": 18,
+    "phone_number": [
+      "88005553535",
+      "+375256666632"
+    ],
+    "address": [
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "street": "My street",
+        "house": 12,
+        "letter": null,
+        "index": "222-333"
+      },
+      {
+        "country": "Georgia",
+        "city": "Tbilisi",
+        "street": "My street2",
+        "house": 300,
+        "letter": "A",
+        "index": "333-222"
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "name": "name",
+    "surname": "surname",
+    "age": 12,
+    "phone_number": "+375291112233",
+    "address": {
+      "country": "Belarus",
+      "city": "Brest",
+      "street": "Lenina",
+      "house": 1,
+      "letter": "A",
+      "index": "111-222"
+    }
+  },
+  {
+    "name": "name2",
+    "surname": "surname2",
+    "age": 22,
+    "phone_number": [
+      "375291112233",
+      "+375331112233"
+    ],
+    "address": [
+      {
+        "country": "haha",
+        "city": "hoho",
+        "street": "hehe",
+        "house": 12,
+        "letter": "X",
+        "index": "123-456"
+      },
+      {
+        "country": "haha",
+        "city": "hoho",
+        "street": "hehe",
+        "house": 12,
+        "letter": "X",
+        "index": "123-456"
+      }
+    ]
+  }
+]
