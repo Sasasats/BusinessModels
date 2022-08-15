@@ -1,0 +1,30 @@
+{
+  "name": "name",
+  "surname": "surname",
+  "age": 1,
+  "phone_number": [
+    "+375333558361"
+  ],
+  "address": [
+    [
+      {
+        "country": "Russia",
+        "city": "Moscow",
+        "street": "Red Place",
+        "house": 1,
+        "letter": "A",
+        "index": "111-222"
+      }
+    ],
+    [
+      {
+        "country": "Russia",
+        "city": "Moscow",
+        "street": "Red Place",
+        "house": 1,
+        "letter": "A",
+        "index": "111-222"
+      }
+    ]
+  ]
+}
