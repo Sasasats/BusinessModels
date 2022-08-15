@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Andrey",
+    "surname": "Andreyev",
+    "age": 18,
+    "phone_number": [
+      "88005553535",
+      "+375256666632"
+    ],
+    "address": [
+      {
+        "country": "Belarus",
+        "city": "Minsk",
+        "street": "My street",
+        "house": 12,
+        "letter": null,
+        "index": "222-333"
+      },
+      {
+        "country": "Georgia",
+        "city": "Tbilisi",
+        "street": "My street2",
+        "house": 300,
+        "letter": "A",
+        "index": "333-222"
+      }
+    ]
+  },
+  {
+    "name": "New name",
+    "surname": "surname",
+    "age": 99999,
+    "phone_number": [
+      "+375333558361"
+    ],
+    "address": [
+      [
+        {
+          "country": "Russia",
+          "city": "Moscow",
+          "street": "Red Place",
+          "house": 1,
+          "letter": "A",
+          "index": "111-222"
+        }
+      ],
+      [
+        {
+          "country": "Russia",
+          "city": "Moscow",
+          "street": "Red Place",
+          "house": 1,
+          "letter": "A",
+          "index": "111-222"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "New name",
+    "surname": "surname",
+    "age": 99999,
+    "phone_number": [
+      "+375333558361"
+    ],
+    "address": [
+      [
+        {
+          "country": "Russia",
+          "city": "Moscow",
+          "street": "Red Place",
+          "house": 1,
+          "letter": "A",
+          "index": "111-222"
+        }
+      ],
+      [
+        {
+          "country": "Russia",
+          "city": "Moscow",
+          "street": "Red Place",
+          "house": 1,
+          "letter": "A",
+          "index": "111-222"
+        }
+      ]
+    ]
+  }
+]
